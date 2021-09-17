@@ -1,0 +1,26 @@
+body{
+    background-size: cover;
+    font-family:'Courier New', Courier, monospace;
+}
+
+canvas{
+    border: 5px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 25px turquoise;
+    border-color: turquoise;
+}
+
+.title{
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 900;
+    font-size: 28px;
+}
+
+.subtitle{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 550;
+    font-size: 22px;
+    margin-top: -8px;
+}
